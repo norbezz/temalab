@@ -1,0 +1,11 @@
+GeneratorModel for yakindu::c {
+
+	statechart Temalab {
+
+		feature Outlet {
+			targetProject = "Temalab_YAKINDU"
+			targetFolder = "src-gen"
+			libraryTargetFolder = "src"
+		}
+	}
+}
